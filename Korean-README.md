@@ -346,7 +346,7 @@
 만약에 시간적 여유가 좀 더 있다면 아래 서적을 읽어보는 것을 권유합니다.
 - [ ] [Computer Architecture, Fifth Edition: A Quantitative Approach](https://www.amazon.com/dp/012383872X/)
     - For a richer, more up-to-date (2011), but longer treatment
-- (한국판) [컴퓨터 구조 및 설계](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788964212134&orderClick=)
+- [ ] (한국판) [컴퓨터 구조 및 설계](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788964212134&orderClick=)
 
 ### 언어 구체적
 
