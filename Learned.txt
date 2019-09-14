@@ -1,0 +1,3 @@
+bubble sort
+selection sort
+Sieve of Eratosthenes
