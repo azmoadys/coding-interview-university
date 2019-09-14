@@ -1,21 +1,5 @@
 # 구글 인터뷰 대학(Google Interview University)
 
-번역:
-- [중국어](translations/README-cn.md)
-- 진행 중인 번역:
-    - [스페인어](https://github.com/jwasham/google-interview-university/issues/80)
-    - [힌디어](https://github.com/jwasham/google-interview-university/issues/81)
-	- [히브리어](https://github.com/jwasham/google-interview-university/issues/82)
-    - [바하사 인도네시아어](https://github.com/jwasham/google-interview-university/issues/101)
-    - [아랍어](https://github.com/jwasham/google-interview-university/issues/98)
-    - [베트남어](https://github.com/jwasham/google-interview-university/issues/92)
-    - [터키어](https://github.com/jwasham/google-interview-university/issues/90)
-    - [프랑스어](https://github.com/jwasham/google-interview-university/issues/89)
-    - [러시아어](https://github.com/jwasham/google-interview-university/issues/87)
-    - [우크라이나어](https://github.com/jwasham/google-interview-university/issues/106)
-    - [브라질 포르투갈어](https://github.com/jwasham/google-interview-university/issues/113)
-	- [한국어](https://github.com/jwasham/google-interview-university/issues/118)
-
 ## 구글 인터뷰 대학이란?
 
 구글 인터뷰 대학은 웹 개발자(컴퓨터공학 학위 없이 독학한)에서 구글의 소프트웨어 엔지니어가 되기 위한 나의 몇 달 간의 공부 계획이다.
@@ -207,23 +191,9 @@
 
 [![future Googler sign](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
 
-## Did I Get the Job?
-
-I'm in the queue right now. Hope to interview soon.
-
-    Thanks for the referral, JP.
-
 ## 팔로우 하려면
 
 나의 이야기: [내가 구글 인터뷰를 풀 타임으로 8 개월 동안 공부한 이유](https://www.vobour.com/book/view/fiRGQMcmRkaw7pgpL) (원문 : [Why I Studied Full-Time for 8 Months for a Google Interview](https://medium.com/@googleyasheck/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13))
-
-
-저의 구글로 향하는 여행 함께 해주세요!
-- **블로그**: [GoogleyAsHeck.com](https://googleyasheck.com/)
-- Twitter: [@googleyasheck](https://twitter.com/googleyasheck)
-- Twitter: [@StartupNextDoor](https://twitter.com/StartupNextDoor)
-- Google+: [+Googleyasheck](https://plus.google.com/+Googleyasheck)
-- LinkedIn: [johnawasham](https://www.linkedin.com/in/johnawasham)
 
 ![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
 
@@ -251,7 +221,6 @@ I'm in the queue right now. Hope to interview soon.
 - [ ] [구글 발표자료 - 2016.10 - 동영상](https://www.youtube.com/watch?v=q4y0KOeXViI)
 
 ## 비디오 자료
-
 
 ## 영상 자료에 관하여
 
@@ -377,6 +346,7 @@ I'm in the queue right now. Hope to interview soon.
 만약에 시간적 여유가 좀 더 있다면 아래 서적을 읽어보는 것을 권유합니다.
 - [ ] [Computer Architecture, Fifth Edition: A Quantitative Approach](https://www.amazon.com/dp/012383872X/)
     - For a richer, more up-to-date (2011), but longer treatment
+- (한국판) 컴퓨터 구조 및 설계 (http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788964212134&orderClick=)
 
 ### 언어 구체적
 
